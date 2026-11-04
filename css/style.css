@@ -1,0 +1,50 @@
+body{
+    background-color: #464451 ;
+    }
+header{
+    background-color: #705379  ;
+    }
+footer{
+    background-color: #705379  ;
+    }
+.card{
+      max-width: 240px;
+      padding: 12px;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      background-color: rebeccapurple;
+     }
+.card img {
+    width: 100%;
+    }
+h3{
+    color:#618f8e ;
+    text-shadow: 4px 6px 10px rebeccapurple;
+    }
+h1{
+    color:#618f8e ;
+    text-shadow: 4px 6px 10px #9050d8 ;
+}
+h2{
+    color:#618f8e ;
+    background-color:#705379;
+    text-shadow: 4px 6px 10px #9050d8 ;
+    }
+p{
+    color: #618f8e ;
+}
+a{
+    color: #618f8e ;
+    background-color: #705379;
+    border-radius: 15px;
+}
+.button{
+    background-color: #705379;
+    border-radius: 15px;
+    }
+li{
+    background-color: #705379;
+}
+section{
+    background-color: #464451;
+}
