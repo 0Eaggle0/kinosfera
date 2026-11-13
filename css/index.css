@@ -1,0 +1,39 @@
+/* Стили главной страницы (index.html) */
+
+body {
+    background-color: #fff;
+}
+
+header {
+    background-color: #705379;
+}
+
+footer {
+    background-color: #705379;
+}
+
+h1 {
+    color: #618f8e;
+    text-shadow: 4px 6px 10px #334d71;
+}
+
+h2 {
+    color: #618f8e;
+    background-color: #705379;
+    text-shadow: 4px 6px 10px #334d71;
+}
+
+a {
+    color: #618f8e;
+    background-color: #705379;
+    border-radius: 15px;
+}
+
+.button {
+    background-color: #705379;
+    border-radius: 15px;
+}
+
+section {
+    background-color: #464451;
+}
