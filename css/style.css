@@ -1,5 +1,5 @@
 body{
-    background-color: #464451 ;
+    background-color: #fff ;
     }
 header{
     background-color: #705379  ;
@@ -12,23 +12,24 @@ footer{
       padding: 12px;
       border: 1px solid #ddd;
       border-radius: 12px;
-      background-color: rebeccapurple;
+      background-color: #334d71 ;
      }
 .card img {
     width: 100%;
+    display: flex;
     }
 h3{
     color:#618f8e ;
-    text-shadow: 4px 6px 10px rebeccapurple;
+    text-shadow: 4px 6px 10px #334d71 ;
     }
 h1{
     color:#618f8e ;
-    text-shadow: 4px 6px 10px #9050d8 ;
+    text-shadow: 4px 6px 10px #334d71  ;
 }
 h2{
     color:#618f8e ;
     background-color:#705379;
-    text-shadow: 4px 6px 10px #9050d8 ;
+    text-shadow: 4px 6px 10px #334d71  ;
     }
 p{
     color: #618f8e ;
